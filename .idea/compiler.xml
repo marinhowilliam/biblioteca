@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="biblioteca.biblioteca.aot" target="17" />
+      <module name="biblioteca.biblioteca.aotTest" target="17" />
+      <module name="biblioteca.biblioteca.main" target="17" />
+      <module name="biblioteca.biblioteca.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
